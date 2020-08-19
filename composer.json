@@ -1,4 +1,6 @@
 {
+    "name": "php/phpforbeginners",
+    "description": "php for beginners",
     "autoload": {
         "classmap": [
             "./"
